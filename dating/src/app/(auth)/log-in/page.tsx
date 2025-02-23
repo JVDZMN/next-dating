@@ -1,9 +1,8 @@
 import React from 'react'
+import LoginForm from './LoginForm'
 
 export default function Loginpage() {
   return (
-    <div>
-      Login page
-    </div>
+    <LoginForm/>
   )
 }
